@@ -1,0 +1,12 @@
+Package: com.amirpogg.testpackage
+Name: New Package
+Architecture: iphoneos-arm
+Depends: firmware (>7.0), mobilesubstrate
+Description: This is a sample new package. Firmware should be greater than 7.0
+Maintainer: AmirTheHacks <amirramos39@gmail.com>
+Author: AmirTheHacks <amirramos39@gmail.com>
+MD5sum: ad404d552ae5a1144e928c8c989cb941
+Section: Tweaks
+Depiction: https://amirpogg.github.io/AMIRTHEHACKS/depictions/?p=com.amirpogg.testpackage
+Version: 2.0.0-1
+
